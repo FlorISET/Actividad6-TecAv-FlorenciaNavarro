@@ -25,7 +25,7 @@ Errores
 - `401`: Sin autenticación
  
 
-Cómo ejecutar
+Cómo ejecutar (en bash)
 
 -- en el caso que salga error probar con pip3 (python 3)
 
